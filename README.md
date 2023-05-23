@@ -6,7 +6,7 @@ class AboutMe:
         self.name = "Kitsakon Jarakit"
         self.role = ["Photographer", "Student", "Gamer"]
         self.interests = ["Politics", "Business", "Engineering"]
-        self.languages = ["Python"]
+        self.languages = ["Python", "C#", "Javascript"]
 
     def greet(self):
         print(f"Hello, I'm {self.name}!")
@@ -33,7 +33,7 @@ As a gamer, I enjoy the thrill of competition and the joy of exploration. I beli
 I have a wide range of interests, including politics, business, and engineering. I believe that these fields are interconnected and that understanding them can provide valuable insights into the world.
 
 ## 💻 Coding
-I have experience in Python and I enjoy solving problems and building solutions. I believe that coding is a powerful tool that can be used to make a positive impact in the world.
+My primary language is python, with experience in C# and Javascript, and I enjoy solving problems and building solutions. I believe that coding is a powerful tool that can be used to make a positive impact in the world.
 
 ## 📫 How to reach me
 You can reach me at bossklitsakon@gmail.com
