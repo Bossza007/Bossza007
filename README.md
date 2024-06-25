@@ -30,7 +30,7 @@ As a student, I'm always eager to learn and grow. I believe that knowledge is po
 As a gamer, I enjoy the thrill of competition and the joy of exploration. I believe that games are a form of art that can tell powerful stories and provide unique experiences.
 
 ## 🌐 Interests
-I have a wide range of interests, including politics, business, and engineering. I believe that these fields are interconnected and that understanding them can provide valuable insights into the world.
+I have a wide range of interests, including politics, sociology, and literature. I believe that these fields are interconnected and that understanding them can provide valuable insights into the world.
 
 ## 💻 Coding
 My primary language is python, with experience in C# and Javascript, and I enjoy solving problems and building solutions. I believe that coding is a powerful tool that can be used to make a positive impact in the world.
